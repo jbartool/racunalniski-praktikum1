@@ -1,5 +1,5 @@
 # Računalniški Praktikum
- ctrl + A -- izberi vse
+ ctrl + A -- izberi vse 
  
  ctrl + O -- odpri imenik
  
