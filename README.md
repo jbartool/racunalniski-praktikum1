@@ -1,1 +1,1 @@
-# 2. domača naloga
+# 2. domača naloga - sprememba za commit
