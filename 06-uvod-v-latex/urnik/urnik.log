@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  11 NOV 2025 19:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  11 NOV 2025 19:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -70,46 +70,47 @@ Package babel Info: Making " an active character on input line 80.
 )) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
-) (urnik.aux)
+)
+No file urnik.aux.
 \openout1 = `urnik.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 Package babel Info: 'slovene' activates 'slovene' shorthands.
-(babel)             Reported on input line 11.
+(babel)             Reported on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
+(Font)              <12> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <8> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
+(Font)              <6> on input line 12.
 
 
 [1
 
 {C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (5.52321pt too wide) in paragraph at lines 114--116
+Overfull \hbox (5.52321pt too wide) in paragraph at lines 113--115
 []\T1/cmr/m/n/10 Razred \T1/cmr/m/it/10 /Pre-da-val-nica/ \T1/cmr/m/n/10 nosi po-datke o ka-pa-ci-teti pre-da-val-nice, njeno oznako
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 128.
+(Font)              <7> on input line 127.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 128.
-c:/Users/Janez/Documents/RP/racunalniski-praktikum1/06-uvod-v-latex/urnik/urnik.tex:128: Undefined control sequence.
-l.128 \[\text
+(Font)              <5> on input line 127.
+c:/Users/Janez/Documents/RP/racunalniski-praktikum1/06-uvod-v-latex/urnik/urnik.tex:127: Undefined control sequence.
+l.127 \[\text
              {velikostTabele} = \text{številoUrNaDan} \times \text{število...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -117,8 +118,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/Janez/Documents/RP/racunalniski-praktikum1/06-uvod-v-latex/urnik/urnik.tex:128: Undefined control sequence.
-l.128 \[\text{velikostTabele} = \text
+c:/Users/Janez/Documents/RP/racunalniski-praktikum1/06-uvod-v-latex/urnik/urnik.tex:127: Undefined control sequence.
+l.127 \[\text{velikostTabele} = \text
                                      {številoUrNaDan} \times \text{število...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -127,10 +128,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Command \v invalid in math mode on input line 128.
+LaTeX Warning: Command \v invalid in math mode on input line 127.
 
-c:/Users/Janez/Documents/RP/racunalniski-praktikum1/06-uvod-v-latex/urnik/urnik.tex:128: Undefined control sequence.
-l.128 ...le} = \text{številoUrNaDan} \times \text
+c:/Users/Janez/Documents/RP/racunalniski-praktikum1/06-uvod-v-latex/urnik/urnik.tex:127: Undefined control sequence.
+l.127 ...le} = \text{številoUrNaDan} \times \text
                                                   {številoDelovnihDni} \]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -139,7 +140,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Command \v invalid in math mode on input line 128.
+LaTeX Warning: Command \v invalid in math mode on input line 127.
 
 Missing character: There is no � in font cmr10!
 Missing character: There is no � in font cmr10!
@@ -168,10 +169,10 @@ L3 programming layer <2025-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1843 strings out of 468079
- 32390 string characters out of 5425750
+ 1840 strings out of 468079
+ 32276 string characters out of 5425750
  446891 words of memory out of 5000000
- 30548 multiletter control sequences out of 15000+600000
+ 30547 multiletter control sequences out of 15000+600000
  637946 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,6n,44p,237b,309s stack positions out of 10000i,1000n,20000p,200000b,200000s
