@@ -6,7 +6,12 @@
 
 \usepackage{url}
 \usepackage{graphicx}
+\usepackage{amsmath,amsthm,amssymb}
 
+\newtheorem{definicija}{Definicija}[section]   % številčenje po sekcijah
+\newtheorem{izrek}{Izrek}[section]
+\newtheorem{trditev}{Trditev}[section]
+\newtheorem{dokaz}{Dokaz}[section]
 \renewcommand{\proofname}{Dokaz}
 
 % Nastavimo koliko prostora izpustimo pod napisom nad sliko ali tabelo.
@@ -27,10 +32,10 @@
 \begin{document}
 
 \maketitle
-\begin{center}
+\begin{figure}
 
-   \includegraphic{slika.pdf}
-\end{center}
+   \includegraphics{slika.pdf}
+\end{figure}
 % 2. naloga
 % Na tem mestu vključite sliko `slika.pdf`:
 % - naredite okolje `center`, da bo slika postavljena na sredino
@@ -71,16 +76,16 @@ Prirejeno iz virov:
 
 Primer magičnega kvadrata reda 3 je prikazan v tabeli \[1\].
 
-begin{table}[htbp]
-   caption{Magični kvadrat reda 3}
-   label{table:mag3}
-   beign{tabular}{|c|c|c|}
+\begin{table}[htbp]
+   \caption{Magični kvadrat reda 3}
+   \label{table:mag3}
+   \begin{tabular}{|c|c|c|}
       \hline
       8 & 1 & 6 \\ \hline
       3 & 5 & 7 \\ \hline
       4 & 9 & 2 \\ \hline
-   end{tabular}
-end{table}
+   \end{tabular}
+\end{table}
 
 % - napis nad tabelo: Magični kvadrat reda 3
 % - oznaka: table:mag3
@@ -125,16 +130,16 @@ reke.
 %   3 & 5 & 7 \\\hline
 %   8 & 1 & 6 \\\hline
 % Konec magičnega kvadrata
-begin{table}[htbp]
-   caption{Kvadrat Lo Shu}
-   label{table:loshu}
-   begin{tabular}{|c|c|c|}
+\begin{table}[htbp]
+   \caption{Kvadrat Lo Shu}
+   \label{table:loshu}
+   \begin{tabular}{|c|c|c|}
       \hline
       4 & 9 & 2 \\ \hline
       3 & 5 & 7 \\ \hline
       8 & 1 & 6 \\ \hline
-   end{tabular}
-end{table}
+   \end{tabular}
+\end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Kulturna pomembnost}
@@ -148,16 +153,16 @@ izogib boleznim.
 obliki magičnega kvadrata reda 3. Ta je v bistvu enak kot kvadrat
 Lo Shu, vendar je vsako število povečano za 19.
 
-begin{table}[htbp]
-   caption{Kvadrat Kubera-Kolam}
-   label{table:kubera}
-   begin{tabular}{|c|c|c|}
+\begin{table}[htbp]
+   \caption{Kvadrat Kubera-Kolam}
+   \label{table:kubera}
+   \begin{tabular}{|c|c|c|}
       \hline
       23 & 28 & 21 \\ \hline
       22 & 24 & 26 \\ \hline
       27 & 20 & 25 \\ \hline
-   end{tabular}
-end{table}
+   \end{tabular}
+\end{table}
 % - napis nad tabelo: Kvadrat Kubera-Kolam
 % - oznaka: table:kubera
 % Konec magičnega kvadrata
@@ -188,11 +193,12 @@ približno 250 let pred Dürerjevim časom. % sklic: fig:durer
 % - oznaka: fig:durer
 % Dodatni parameter v oglatih oglepajih sliko nastavi velikost
 % slike na 150% originalne velikosti.
-\begin{center}
+\begin{figure}[htbp]
+   \centering
    \caption{Dürerjev magični kvadrat}
-   \label{fig:durer}
    \includegraphics[scale=1.3]{durer.png}
-\end{center}
+   \label{fig:durer}
+\end{figure}
 
 Vsoto 34 je mogoče najti pri seštevanju števil v vsaki vrstici, vsakem stolpcu,
 na vsaki diagonali, v vsakem od štirih kvadrantov, v sredinskih štirih poljih,
@@ -207,17 +213,17 @@ simetričnih parov ($2+8+9+15$ in $3+5+12+14$), in še na nekaj drugih načinov.
 %    5 & 10 & 11 &  8 \\\hline
 %    9 &  6 &  7 & 12 \\\hline
 %    4 & 15 & 14 &  1 \\\hline
-begin{table}[htbp]
-   caption{Dürerjev magični kvadrat $4\times 4$}
-   label{table:durer}
-   begin{tabular}{|c|c|c|c|}
+\begin{table}[htbp]
+  \caption{Dürerjev magični kvadrat $4\times 4$}
+  \label{table:durer}
+   \begin{tabular}{|c|c|c|c|}
       \hline
       16 &  3 &  2 & 13 \\ \hline
        5 & 10 & 11 &  8 \\ \hline
        9 &  6 &  7 & 12 \\ \hline
        4 & 15 & 14 &  1 \\ \hline
-   end{tabular}
-end{table}
+   \end{tabular}
+\end{table}
 %
 Pasijonska fasada na katedrali Sagrada família v Barceloni
 (glej sliko \[2\] za fotografijo) vsebuje magični kvadrat reda 4.
@@ -226,11 +232,12 @@ Pasijonska fasada na katedrali Sagrada família v Barceloni
 % Tu vstavite sliko
 % - napis nad sliko: Pasijonska fasada, Sagrada Família
 % - oznaka: fig:sagrada
-\begin{center}
+\begin{figure}[htbp]
+   \centering
    \caption{Pasijonska fasada, Sagrada Família}
-   \label{fig:sagrada}
    \includegraphics{sagrada.png}
-\end{center}
+   \label{fig:sagrada}
+\end{figure}
 Vsota števil v vrsticah, stolpcih oziroma na diagonalah je 33 -- Jezusova starost
 v času pasijona. Strukturno je kvadrat podoben Dürerjevemu, vendar so števila
 v štirih poljih zmanjšana za 1. Posledica je, da sta števili 10 in 14 podvojeni
@@ -243,15 +250,15 @@ in zato kvadrat ni normalen.
 %    8 & 10 & 10 &  5 \\\hline
 %   13 &  2 &  3 & 15 \\\hline
 \begin{table}
-   caption{Pasijonska fasada, Sagrada Família}
-   label{table:sagrada}
-   begin{tabular}{|c|c|c|c|}
+  \caption{Pasijonska fasada, Sagrada Família}
+  \label{table:sagrada}
+   \begin{tabular}{|c|c|c|c|}
       \hline
        1 & 14 & 14 &  4 \\ \hline
       11 &  7 &  6 &  9 \\ \hline
        8 & 10 & 10 &  5 \\ \hline
       13 &  2 &  3 & 15 \\ \hline
-   end{tabular}
+   \end{tabular}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -263,7 +270,7 @@ in zato kvadrat ni normalen.
 \end{definicija}
 
 \begin{izrek}
-   label{izrek:eq:mc}
+  \label{izrek:eq:mc}
    Magična konstanta normalnega magičnega kvadrata reda \[n\] je enaka
    \begin{equation}
       % oznaka: eq:mc
@@ -272,7 +279,7 @@ in zato kvadrat ni normalen.
 \end{izrek}
 
 \begin{dokaz}
-   label{dokaz:eq:numbers}
+  \label{dokaz:eq:numbers}
    V normalnem magičnem kvadratu reda $n$ je vsota vseh nastopajočih
    števil (glej (1) na strani (2)) enaka
    $1+2+3+\dots+n^2=\sum_{k=1}^{n^2}k=\frac{1}{2}n^2(n^2+1)$. Ker imamo
