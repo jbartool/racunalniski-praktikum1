@@ -1,1 +1,1 @@
-# Računalniški praktikum - 2. domača naloga
+https://jbartool.github.io/
