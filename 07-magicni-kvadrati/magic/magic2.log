@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  1 DEC 2025 19:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  1 DEC 2025 19:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -160,10 +160,8 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
-) (magic2.aux
-Package babel Info: 'slovene' activates 'slovene' shorthands.
-(babel)             Reported on input line 5.
 )
+No file magic2.aux.
 \openout1 = `magic2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -180,7 +178,9 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
- (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+Package babel Info: 'slovene' activates 'slovene' shorthands.
+(babel)             Reported on input line 31.
+(C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count291
 \scratchdimen=\dimen165
@@ -250,11 +250,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 LaTeX Warning: Citation `euler' on page 3 undefined on input line 167.
 
+
+LaTeX Warning: Reference `fig:durer' on page 3 undefined on input line 178.
+
 <durer.png, id=32, 65.043pt x 67.57245pt>
 File: durer.png Graphic file (type png)
 <use durer.png>
 Package pdftex.def Info: durer.png  used on input line 191.
 (pdftex.def)             Requested size: 97.56424pt x 101.3584pt.
+
+LaTeX Warning: Reference `fig:sagrada' on page 3 undefined on input line 222.
+
 <sagrada.png, id=34, 281.05pt x 210.7875pt>
 File: sagrada.png Graphic file (type png)
 <use sagrada.png>
@@ -265,6 +271,35 @@ Package pdftex.def Info: sagrada.png  used on input line 231.
 [3 <./durer.png>]
 
 [4 <./sagrada.png>]
+c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex:268: Undefined control sequence.
+l.268    ≈°tevil (glej \eqref
+                             {eq:numbers} na strani \pageref{eq:numbers}) enaka
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:numbers' on page 5 undefined on input line 268.
+
+c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex:274: Undefined control sequence.
+l.274 ...st raƒçun poka≈æe, da je konstanti \eqref
+                                                  {eq:mc} analogna konstanta
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (0.6534pt too wide) in paragraph at lines 274--277
+[]\T1/lmr/m/n/12 Preprost ra-£un po-ka∫e, da je kon-stanti eq:mc ana-lo-gna kon-stanta $\OML/lmm/m/it/12 M[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 n\OT1/lmr/m/n/12 ; \OML/lmm/m/it/12 A; D\OT1/lmr/m/n/12 )$
+ []
+
+
+LaTeX Warning: Reference `table:stevila' on page 5 undefined on input line 309.
+
 
 LaTeX Warning: Citation `bessy' on page 5 undefined on input line 328.
 
@@ -296,17 +331,20 @@ L3 programming layer <2025-10-09>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 3182 strings out of 468079
- 54733 string characters out of 5425750
- 473664 words of memory out of 5000000
- 31808 multiletter control sequences out of 15000+600000
+ 3181 strings out of 468079
+ 54631 string characters out of 5425750
+ 474436 words of memory out of 5000000
+ 31809 multiletter control sequences out of 15000+600000
  676281 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,10n,65p,282b,229s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on magic2.pdf (7 pages, 369643 bytes).
+Output written on magic2.pdf (7 pages, 369819 bytes).
 PDF statistics:
  111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
