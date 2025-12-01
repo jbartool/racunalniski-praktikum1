@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex magic2"] 1764612559.28635 "magic2.aux" "magic2.bbl" "magic2" 1764612877.74378 0
+["bibtex magic2"] 1764613437.32423 "magic2.aux" "magic2.bbl" "magic2" 1764613440.74714 0
   "./literatura.bib" 1764610518.79718 0 d41d8cd98f00b204e9800998ecf8427e ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/siam.bst" 1291864356 19403 812681d329611d2a1625ad7ae5186edc ""
-  "magic2.aux" 1764612875.88303 1755 8f325f684c6520dc6c29c00962ecbc27 "pdflatex"
+  "magic2.aux" 1764613439.16377 2778 10b3af38877dca146196a0106451eede "pdflatex"
   (generated)
   "magic2.bbl"
   "magic2.blg"
   (rewritten before read)
-["pdflatex"] 1764612874.52701 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex" "magic2.pdf" "magic2" 1764612877.74554 0
-  "C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1763914799.11579 81760 910369822cd2d7c359b2482f4c0de4ca ""
+["pdflatex"] 1764613437.9478 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex" "magic2.pdf" "magic2" 1764613440.74895 0
+  "C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764613078.68594 81760 910369822cd2d7c359b2482f4c0de4ca ""
   "C:/Users/Janez/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762797291.10522 13321909 00692622ea5595b52b767e02dcea5388 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -64,6 +64,7 @@
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty" 1749467999 5275 2f50a1b91fdc3c2c6ff41843a6854061 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1749467999 5048 0270515b828149155424600fd2d58ac5 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1749467999 8449 8dc66c6c313c8eb2d774af83bca435dd ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty" 1579093635 6253 71987c78d3b294f5a70855024b9b06cc ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/pdftex.def" 1760360081 19626 23e2822b9b2b5005f4c549ca98b9334d ""
@@ -80,10 +81,10 @@
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd" 1430474546 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex" 1764612873.39635 12652 6b7e8b5271d99f210074a57d2d619d91 ""
+  "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex" 1764613433.19493 14907 b04ca8088ca97898b7ca80f94617bb59 ""
   "durer.png" 1763406253.79902 49307 0cf37d3b3303edf414f776a5dffb01d2 ""
-  "magic2.aux" 1764612875.88303 1755 8f325f684c6520dc6c29c00962ecbc27 "pdflatex"
-  "magic2.bbl" 1764612559.781 52 a8d58af1cdd914e1e9801ae0ec600f83 "bibtex magic2"
+  "magic2.aux" 1764613439.16377 2778 10b3af38877dca146196a0106451eede "pdflatex"
+  "magic2.bbl" 1764613437.83935 52 a8d58af1cdd914e1e9801ae0ec600f83 "bibtex magic2"
   "sagrada.png" 1763406254.03082 118170 ac68d6ea46e053885b6033e7cd32be5f ""
   "slika.pdf" 1763406254.08234 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
   (generated)

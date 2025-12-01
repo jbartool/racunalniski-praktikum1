@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  1 DEC 2025 19:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  1 DEC 2025 19:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -246,47 +246,48 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 73.
 
 
-LaTeX Warning: Citation `euler' on page 2 undefined on input line 147.
-
-
-
 [2{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+
+LaTeX Warning: Citation `euler' on page 3 undefined on input line 167.
+
 <durer.png, id=32, 65.043pt x 67.57245pt>
 File: durer.png Graphic file (type png)
 <use durer.png>
-Package pdftex.def Info: durer.png  used on input line 171.
+Package pdftex.def Info: durer.png  used on input line 191.
 (pdftex.def)             Requested size: 97.56424pt x 101.3584pt.
 <sagrada.png, id=34, 281.05pt x 210.7875pt>
 File: sagrada.png Graphic file (type png)
 <use sagrada.png>
-Package pdftex.def Info: sagrada.png  used on input line 200.
+Package pdftex.def Info: sagrada.png  used on input line 231.
 (pdftex.def)             Requested size: 281.0493pt x 210.78699pt.
 
 
 [3 <./durer.png>]
 
-[4{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./sagrada.png>]
+[4 <./sagrada.png>]
 
-LaTeX Warning: Citation `bessy' on page 5 undefined on input line 294.
-
-
-LaTeX Warning: Citation `berlekamp' on page 5 undefined on input line 294.
+LaTeX Warning: Citation `bessy' on page 5 undefined on input line 325.
 
 
-LaTeX Warning: Citation `gardner' on page 5 undefined on input line 296.
+LaTeX Warning: Citation `berlekamp' on page 5 undefined on input line 325.
 
 
-LaTeX Warning: Citation `pinn' on page 5 undefined on input line 298.
+LaTeX Warning: Citation `gardner' on page 5 undefined on input line 327.
+
+
+LaTeX Warning: Citation `pinn' on page 5 undefined on input line 329.
 
 
 
-[5] (magic2.bbl
+[5{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
+
+[6] (magic2.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 )
 
-[6] (magic2.aux)
+[7] (magic2.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
@@ -297,17 +298,17 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3175 strings out of 468079
- 54649 string characters out of 5425750
- 459514 words of memory out of 5000000
- 31801 multiletter control sequences out of 15000+600000
+ 3181 strings out of 468079
+ 54724 string characters out of 5425750
+ 473640 words of memory out of 5000000
+ 31807 multiletter control sequences out of 15000+600000
  676281 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,9n,65p,282b,229s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on magic2.pdf (6 pages, 365468 bytes).
+Output written on magic2.pdf (7 pages, 369132 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
