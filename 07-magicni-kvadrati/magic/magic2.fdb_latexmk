@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex magic2"] 1764612559.28635 "magic2.aux" "magic2.bbl" "magic2" 1764612562.47387 0
+["bibtex magic2"] 1764612559.28635 "magic2.aux" "magic2.bbl" "magic2" 1764612662.89515 0
   "./literatura.bib" 1764610518.79718 0 d41d8cd98f00b204e9800998ecf8427e ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/siam.bst" 1291864356 19403 812681d329611d2a1625ad7ae5186edc ""
-  "magic2.aux" 1764612560.91984 1755 8f325f684c6520dc6c29c00962ecbc27 "pdflatex"
+  "magic2.aux" 1764612661.25842 1755 8f325f684c6520dc6c29c00962ecbc27 "pdflatex"
   (generated)
   "magic2.bbl"
   "magic2.blg"
   (rewritten before read)
-["pdflatex"] 1764612559.87688 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex" "magic2.pdf" "magic2" 1764612562.47673 0
+["pdflatex"] 1764612660.0849 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex" "magic2.pdf" "magic2" 1764612662.89686 0
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1763914799.11579 81760 910369822cd2d7c359b2482f4c0de4ca ""
   "C:/Users/Janez/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762797291.10522 13321909 00692622ea5595b52b767e02dcea5388 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -80,9 +80,9 @@
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd" 1430474546 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex" 1764612555.78794 12642 116d07d3c387ea16b73c4195ba8ca7cb ""
+  "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/07-magicni-kvadrati/magic/magic2.tex" 1764612658.97215 12649 d7284a9f77d97263233a38df933889aa ""
   "durer.png" 1763406253.79902 49307 0cf37d3b3303edf414f776a5dffb01d2 ""
-  "magic2.aux" 1764612560.91984 1755 8f325f684c6520dc6c29c00962ecbc27 "pdflatex"
+  "magic2.aux" 1764612661.25842 1755 8f325f684c6520dc6c29c00962ecbc27 "pdflatex"
   "magic2.bbl" 1764612559.781 52 a8d58af1cdd914e1e9801ae0ec600f83 "bibtex magic2"
   "sagrada.png" 1763406254.03082 118170 ac68d6ea46e053885b6033e7cd32be5f ""
   "slika.pdf" 1763406254.08234 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
