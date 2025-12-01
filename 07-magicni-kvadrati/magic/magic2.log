@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  1 DEC 2025 19:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  1 DEC 2025 20:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -218,7 +218,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisrulewidth=\dimen173
 )
 \c@izrek=\count301
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 31.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 32.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -230,20 +230,20 @@ Package babel Info: 'slovene' activates 'slovene' shorthands.
 )
 \openout1 = `magic2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count303
@@ -263,28 +263,28 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 33.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 34.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 33.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 34.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 33.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 34.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 33.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 34.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 33.
+(Font)              <14.4> on input line 34.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 33.
+(Font)              <10> on input line 34.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <7> on input line 34.
 
 
 LaTeX Warning: No \author given.
@@ -292,9 +292,9 @@ LaTeX Warning: No \author given.
 <slika.pdf, id=1, 158.5925pt x 171.64125pt>
 File: slika.pdf Graphic file (type pdf)
 <use slika.pdf>
-Package pdftex.def Info: slika.pdf  used on input line 42.
+Package pdftex.def Info: slika.pdf  used on input line 43.
 (pdftex.def)             Requested size: 158.59209pt x 171.64081pt.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 56.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 57.
 (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -303,26 +303,26 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 {C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./slika.pdf>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 73.
+(Font)              <12> on input line 74.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 73.
+(Font)              <8> on input line 74.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 73.
+(Font)              <6> on input line 74.
 
 
 [2{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
 
-LaTeX Warning: Citation `euler' on page 3 undefined on input line 167.
+LaTeX Warning: Citation `euler' on page 3 undefined on input line 168.
 
 <durer.png, id=32, 65.043pt x 67.57245pt>
 File: durer.png Graphic file (type png)
 <use durer.png>
-Package pdftex.def Info: durer.png  used on input line 191.
+Package pdftex.def Info: durer.png  used on input line 192.
 (pdftex.def)             Requested size: 97.56424pt x 101.3584pt.
 <sagrada.png, id=34, 281.05pt x 210.7875pt>
 File: sagrada.png Graphic file (type png)
 <use sagrada.png>
-Package pdftex.def Info: sagrada.png  used on input line 231.
+Package pdftex.def Info: sagrada.png  used on input line 232.
 (pdftex.def)             Requested size: 281.0493pt x 210.78699pt.
 
 
@@ -330,16 +330,16 @@ Package pdftex.def Info: sagrada.png  used on input line 231.
 
 [4 <./sagrada.png>]
 
-LaTeX Warning: Citation `bessy' on page 5 undefined on input line 328.
+LaTeX Warning: Citation `bessy' on page 5 undefined on input line 329.
 
 
-LaTeX Warning: Citation `berlekamp' on page 5 undefined on input line 328.
+LaTeX Warning: Citation `berlekamp' on page 5 undefined on input line 329.
 
 
-LaTeX Warning: Citation `gardner' on page 5 undefined on input line 330.
+LaTeX Warning: Citation `gardner' on page 5 undefined on input line 331.
 
 
-LaTeX Warning: Citation `pinn' on page 5 undefined on input line 332.
+LaTeX Warning: Citation `pinn' on page 5 undefined on input line 333.
 
 
 
@@ -364,13 +364,13 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  3864 strings out of 468079
  63686 string characters out of 5425750
- 486192 words of memory out of 5000000
+ 486200 words of memory out of 5000000
  32474 multiletter control sequences out of 15000+600000
  676281 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,10n,65p,299b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on magic2.pdf (7 pages, 370611 bytes).
+Output written on magic2.pdf (7 pages, 371305 bytes).
 PDF statistics:
  111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
