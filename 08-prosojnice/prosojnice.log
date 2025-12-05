@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  5 DEC 2025 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  5 DEC 2025 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Janez/Documents/RP/racunalniski-praktikum1/latex-pregled/5-prosojnice.tex
-(c:/Users/Janez/Documents/RP/racunalniski-praktikum1/latex-pregled/5-prosojnice.tex
+**c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex
+(c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
@@ -127,8 +127,8 @@ Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmath@stack@operation=\toks25
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count309
-))) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+))) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
@@ -531,12 +531,12 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes.sty)) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefault.sty (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemedefault.sty) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemedefault.sty) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthemedefault.sty
 \beamer@dima=\dimen300
 \beamer@dimb=\dimen301
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (predavanja.sty (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks46
 \inpenc@posthook=\toks47
+) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/10/22 v25.14 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count358
@@ -576,8 +576,8 @@ Package babel Info: Importing font and identification data for slovene
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/babel-slovenian\slovenian.ldf
 Language: slovenian 2025/05/10 v1.2p Slovenian support from the babel system
 Package babel Info: Making " an active character on input line 80.
-)) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfpages.sty
-Package: pgfpages 2011/01/05 ver 0.02
+)) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count360
@@ -590,327 +590,78 @@ LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count362
 \calc@Cskip=\skip69
+) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\pgf@logicalpages=\count363
-\pgf@firstshipout=\count364
-\pgf@lastshipout=\count365
-\pgf@currentshipout=\count366
-\pgf@cpn=\count367
-\pgf@shipoutnextto=\count368
-\pgfphysicalheight=\dimen305
-\pgfphysicalwidth=\dimen306
-\pgfpages@shipoutbox=\box78
+\g_MT_multlinerow_int=\count363
+\l_MT_multwidth_dim=\dimen305
+\origjot=\skip70
+\l_MT_shortvdotswithinadjustabove_dim=\dimen306
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen307
+\l_MT_above_intertext_sep=\dimen308
+\l_MT_below_intertext_sep=\dimen309
+\l_MT_above_shortintertext_sep=\dimen310
+\l_MT_below_shortintertext_sep=\dimen311
+\xmathstrut@box=\box78
+\xmathstrut@dim=\dimen312
+) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/qtree\qtree.sty
+Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+(C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+ (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
 )
-\pgfpages@box@1=\box79
-\pgfpages@box@2=\box80
- (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\palatino.sty
-Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemeserif.sty)
-\c@izrek=\count369
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 51.
- (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
-File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count370
-) (5-prosojnice.aux
-Package babel Info: 'slovene' activates 'slovene' shorthands.
-(babel)             Reported on input line 8.
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+ (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 )
-\openout1 = `5-prosojnice.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
-* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
-* \paperwidth=364.19536pt
-* \paperheight=273.14662pt
-* \textwidth=307.28987pt
-* \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-72.26999pt
-* \headheight=14.22636pt
-* \headsep=0.0pt
-* \topskip=14.0pt
-* \footskip=14.22636pt
-* \marginparwidth=4.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-(C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count371
-\scratchdimen=\dimen307
-\scratchbox=\box81
-\nofMPsegments=\count372
-\nofMParguments=\count373
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count374
-\MPscratchDim=\dimen308
-\MPnumerator=\count375
-\makeMPintoPDFobject=\count376
-\everyMPtoPDFconversion=\toks49
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-Package hyperref Info: Link coloring OFF on input line 51.
- (5-prosojnice.out) (5-prosojnice.out)
-\@outlinefile=\write5
-\openout5 = `5-prosojnice.out'.
-
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> T1/ppl/m/n on input line 51.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 51.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 51.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/ppl/m/it on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/ppl/m/it on input line 51.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 51.
-LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/ppl/m/n --> T1/ppl/b/n on input line 51.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/ppl/b/n --> T1/ppl/b/n on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 51.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/b/n on input line 51.
- (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
-Dictionary: translator-basic-dictionary, Language: English 
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
-Dictionary: translator-bibliography-dictionary, Language: English 
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-environment-dictionary-English.dict
-Dictionary: translator-environment-dictionary, Language: English 
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-months-dictionary-English.dict
-Dictionary: translator-months-dictionary, Language: English 
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-numbers-dictionary-English.dict
-Dictionary: translator-numbers-dictionary, Language: English 
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
-Dictionary: translator-theorem-dictionary, Language: English 
-) (5-prosojnice.nav)
-
-Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 54.
-
-
-
-
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 77.
-(C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+\pIIe@GRAPH=\toks48
+\@arclen=\dimen313
+\@arcrad=\dimen314
+\pIIe@tempdima=\dimen315
+\pIIe@tempdimb=\dimen316
+\pIIe@tempdimc=\dimen317
+\pIIe@tempdimd=\dimen318
+\pIIe@tempdime=\dimen319
+\pIIe@tempdimf=\dimen320
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
- (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-[2
-
-{C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation1}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.77 \end{frame}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.77 \end{frame}
-                
-
-]
-
-
-
-[3
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation2}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.105 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.105 \end{frame}
-                 
-
-]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 105.
- (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-
-
-
-[4
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation3}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.105 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.105 \end{frame}
-                 
-
-]
-
-
-
-[5
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation4}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.105 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.105 \end{frame}
-                 
-
-]
-
-
-
-[6
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation5}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.119 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.119 \end{frame}
-                 
-
-]
-
-\tf@nav=\write6
-\openout6 = `5-prosojnice.nav'.
-
-\tf@toc=\write7
-\openout7 = `5-prosojnice.toc'.
-
-\tf@snm=\write8
-\openout8 = `5-prosojnice.snm'.
-
-[7
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation6}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.123 \end{document}
-                    
-pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.123 \end{document}
-                    
-
-] (5-prosojnice.aux)
- ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-10-09>
- ***********
-Package rerunfilecheck Info: File `5-prosojnice.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
-Here is how much of TeX's memory you used:
- 23154 strings out of 468079
- 448923 string characters out of 5425750
- 837371 words of memory out of 5000000
- 51331 multiletter control sequences out of 15000+600000
- 647793 words of font info for 74 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 128i,11n,123p,453b,552s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 5-prosojnice.pdf (6 pages, 88731 bytes).
-PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+\c@treecount=\count364
+\c@branchcount=\count365
+\parentbox=\box79
+\treebox=\box80
+\treeboxone=\box81
+\treeboxtwo=\box82
+\treeboxthree=\box83
+\treeboxfour=\box84
+\treeboxfive=\box85
+\treeboxsix=\box86
+\treeboxseven=\box87
+\treeboxeight=\box88
+\treeboxnine=\box89
+\treeboxten=\box90
+\treeboxeleven=\box91
+\treeboxtwelve=\box92
+\treeboxthirteen=\box93
+\treeboxfourteen=\box94
+\treeboxfifteen=\box95
+\treeboxsixteen=\box96
+\treeboxseventeen=\box97
+\treeboxeighteen=\box98
+\treeboxnineteen=\box99
+\treeboxtwenty=\box100
+\treeoffsetone=\skip71
+\treeoffsettwo=\skip72
+\treeoffsetthree=\skip73
+\treeoffsetfour=\skip74
+\treeoffsetfive=\skip75
+\treeoffsetsix=\skip76
+\treeoffsetseven=\skip77
+\treeoffseteight=\skip78
+\treeoffsetnine=\skip79
+\treeoffsetten=\skip80
+\treeoffseteleven=\skip81
+\treeoffsettwelve=\skip82
+\treeoffsetthirteen=\skip83
+\tree
