@@ -48,10 +48,10 @@
 	% Oblikujte spo	dnje enačbe z ustreznim okoljem,
 	% da bo enačba oblikovana kot v rešitvah.
 	Poišči vse rešitve enačbe
-	\begin{multline}
+	\begin{multline*}
 	(1+x+x^2) \cdot (1+x+x^2+x^3+\ldots+x^9+x^{10}) = 
 	=(1+x+x^2+x^3+x^4+x^5+x^6)^2.
-	\end{multline}
+	\end{multline*}
 \end{frame}
 
 \begin{frame}{Okolje \texttt{cases}}
@@ -60,7 +60,8 @@
 	% da oblikovan kot v rešitvah.
 	Dana je funkcija
 	$$\begin{cases}
-		\frac{3x^2y-y^3}{x^2+y^2}
+		\frac{3x^2y-y^3}{x^2+y^2}, & \text{če } (x,y) \neq (0,0) \\
+		a, & \text{če } (x,y) = (0,0)
 	\end{cases}$$
 	\begin{itemize}
 		% ukaz displaystyle preklopi v prikazni način v vrstici. 
