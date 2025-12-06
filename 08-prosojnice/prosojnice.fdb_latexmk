@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1764954520.6336 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex" "prosojnice.pdf" "prosojnice" 1764954524.912 0
+["pdflatex"] 1765007073.344 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex" "prosojnice.pdf" "prosojnice" 1765007077.61088 0
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764952479.21656 83537 02a664bae19768fff9f97d0ded668270 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecsi1095.pk" 1764952772.85551 26868 1e7c7c31293023ccf268e68d14312306 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecsi1200.pk" 1764952492.98727 29580 e9addbae19362d84c5772d36bfe9fb39 ""
@@ -249,14 +249,14 @@
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex" 1764954509.2818 2209 59a1a9c8f0924f555d85fd867a6ec8e1 ""
+  "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex" 1765006897.81524 2209 59a1a9c8f0924f555d85fd867a6ec8e1 ""
   "predavanja.sty" 1764951488.2107 1271 9546361f9f30288301f1cddd1feb0f5b ""
-  "prosojnice.aux" 1764954524.04777 4641 89bb9a2b008474ed9339d60388d491ac "pdflatex"
-  "prosojnice.nav" 1764954524.05977 2867 6375d8facc84763ef3d031c04b1601af "pdflatex"
-  "prosojnice.out" 1764954524.05377 857 a81989b9e0447179f9f657bd4d407b98 "pdflatex"
-  "prosojnice.toc" 1764954524.05977 403 45af06e36ac7b2657b15cb91e0c4efd5 "pdflatex"
+  "prosojnice.aux" 1765007076.86819 4641 89bb9a2b008474ed9339d60388d491ac "pdflatex"
+  "prosojnice.nav" 1765007076.87719 2867 6375d8facc84763ef3d031c04b1601af "pdflatex"
+  "prosojnice.out" 1765007076.87319 857 a81989b9e0447179f9f657bd4d407b98 "pdflatex"
+  "prosojnice.toc" 1765007076.87819 403 45af06e36ac7b2657b15cb91e0c4efd5 "pdflatex"
   "prosojnice/1-paket-beamer.tex" 1764954509.16155 1965 e938a30cf4add98591697a4478d3bd1b ""
-  "prosojnice/2-paketa-amsmath-amsfonts.tex" 1764951487.98937 2308 6e17ad6342c4de0a588dbca90295b2b0 ""
+  "prosojnice/2-paketa-amsmath-amsfonts.tex" 1765007071.56211 2338 5699765f4726bc708a0fcab123dce9ca ""
   (generated)
   "prosojnice.aux"
   "prosojnice.log"
