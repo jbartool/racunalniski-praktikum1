@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  6 DEC 2025 09:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  6 DEC 2025 09:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -820,8 +820,10 @@ Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaLa
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count380
+) (prosojnice.aux
+Package babel Info: 'slovene' activates 'slovene' shorthands.
+(babel)             Reported on input line 8.
 )
-No file prosojnice.aux.
 \openout1 = `prosojnice.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -842,6 +844,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -896,6 +899,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 13.
+ (prosojnice.out) (prosojnice.out)
 \@outlinefile=\write5
 \openout5 = `prosojnice.out'.
 
@@ -964,10 +968,7 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-Package babel Info: 'slovene' activates 'slovene' shorthands.
-(babel)             Reported on input line 13.
- (prosojnice.nav)
+) (prosojnice.nav)
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 31.
 
@@ -978,9 +979,7 @@ Overfull \vbox (44.54378pt too high) detected at line 31
 
 [1
 
-{C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-No file prosojnice.toc.
-
+{C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (prosojnice.toc)
 
 [2
 
@@ -1073,26 +1072,6 @@ Overfull \hbox (50.96767pt too wide) detected at line 55
 [19
 
 ]
-prosojnice/2-paketa-amsmath-amsfonts.tex:70: Missing $ inserted.
-<inserted text> 
-                $
-l.70 \end{frame}
-                
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-prosojnice/2-paketa-amsmath-amsfonts.tex:70: Missing $ inserted.
-<inserted text> 
-                $
-l.70 \end{frame}
-                
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
 
 [20
 
@@ -1127,28 +1106,21 @@ my insertion and my current dilemma will both disappear.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
-
-
-Package rerunfilecheck Warning: File `prosojnice.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `prosojnice.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  A81989B9E0447179F9F657BD4D407B98;857.
+Package rerunfilecheck Info: File `prosojnice.out' has not changed.
+(rerunfilecheck)             Checksum: A81989B9E0447179F9F657BD4D407B98;857.
  ) 
 Here is how much of TeX's memory you used:
- 27574 strings out of 468079
- 553678 string characters out of 5425750
+ 27601 strings out of 468079
+ 554464 string characters out of 5425750
  933154 words of memory out of 5000000
- 55625 multiletter control sequences out of 15000+600000
+ 55644 multiletter control sequences out of 15000+600000
  643737 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,137p,1979b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,137p,1979b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on prosojnice.pdf (24 pages, 202154 bytes).
+Output written on prosojnice.pdf (24 pages, 207904 bytes).
 PDF statistics:
- 498 PDF objects out of 1000 (max. 8388607)
+ 529 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
