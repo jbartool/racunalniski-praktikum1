@@ -359,9 +359,6 @@ INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.st
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\prosojnice.aux
-INPUT .\prosojnice.aux
-INPUT prosojnice.aux
 OUTPUT prosojnice.aux
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -371,12 +368,6 @@ INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstop
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\prosojnice.out
-INPUT .\prosojnice.out
-INPUT prosojnice.out
-INPUT prosojnice.out
-INPUT .\prosojnice.out
-INPUT .\prosojnice.out
 OUTPUT prosojnice.out
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
@@ -408,10 +399,6 @@ INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss120
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsi1200.tfm
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss0500.tfm
 INPUT C:\Users\Janez\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\prosojnice.toc
-INPUT .\prosojnice.toc
-INPUT prosojnice.toc
-INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1200.tfm
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
@@ -445,6 +432,7 @@ INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\public\sansmathacce
 INPUT .\prosojnice\1-paket-beamer.tex
 INPUT .\prosojnice\1-paket-beamer.tex
 INPUT prosojnice\1-paket-beamer.tex
+INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1095.tfm
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsi1095.tfm
 INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcss1095.tfm
