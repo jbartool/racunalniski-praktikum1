@@ -522,6 +522,12 @@ INPUT .\slike\fig-7.png
 INPUT .\slike\fig-7.png
 INPUT .\slike\fig-7.png
 INPUT .\slike\fig-7.png
+INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss0500.tfm
+INPUT C:\Users\Janez\AppData\Local\Programs\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 OUTPUT prosojnice.nav
 OUTPUT prosojnice.toc
 OUTPUT prosojnice.snm
