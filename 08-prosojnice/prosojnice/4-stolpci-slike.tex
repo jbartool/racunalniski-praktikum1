@@ -63,6 +63,25 @@
 			% Točka A
 			\coordinate [label=below left:{\scriptsize $A$}] (A) at ({-\t},0);
 			\draw (A) circle (1.5pt);
+			\pause
+			% Točka B
+			\coordinate [label=below right:{\scriptsize $B$}] (B) at ({\t},0);
+			\draw (B) circle (1.5pt);
+			\pause
+			% Definicija točke T', v kateri se začne lok m in risanje loka m z oznako.
+			\coordinate (T') at ({-\tt},{\td});
+			\draw[gray, thin] (T') arc[start angle=330, end angle=150, radius=2] node[left] {\scriptsize $m$};
+			\pause
+			% Definicija točke T'' in risanje loka n z oznako.
+			\coordinate (T'') at ({\tt},{\td});
+			\draw[gray, thin] (T'') arc[start angle=210, end angle=30, radius=2] node[right] {\scriptsize $n$};
+			\pause
+			% Definicija in risanje točke C
+			\coordinate [label={[blue, above right]:$C$}] (C) at (0,{\t+2*sqrt(3)});
+			\fill[blue] (C) circle (2pt);
+			\pause
+			% Risanje premice skozi točki T in C.
+			\draw[blue, very thick] (T) -- (C);
 		\end{tikzpicture}
 	\end{column}
 	\end{columns}
@@ -105,7 +124,7 @@
 				% Naloga 3.4.3.: Definirajte točko T'' in narišite lok n z oznako.
 				% Naloga 3.4.4.: Definirajte in narišite točko C				
 				% Naloga 3.4.5.: Narišite premico skozi točki T in C.
-				 Konec vsebine za nalogo 3.4.
+				% Konec vsebine za nalogo 3.4.
 
 
 % Naloga 4
