@@ -1,19 +1,19 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  23 NOV 2025 17:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.18)  18 DEC 2025 21:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **c:/Users/Janez/Documents/RP/racunalniski-praktikum1/latex-pregled/2-matematika.tex
 (c:/Users/Janez/Documents/RP/racunalniski-praktikum1/latex-pregled/2-matematika.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-10-09>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-06>
 (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsart.cls
 Document Class: amsart 2020/05/29 v2.20.6
 \linespacing=\dimen148
 \normalparindent=\dimen149
 \normaltopskip=\skip49
 (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
+Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
@@ -74,8 +74,8 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \multlinegap=\skip51
 \multlinetaggap=\skip52
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 397.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -111,14 +111,16 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \thm@postskip=\skip57
 \thm@headsep=\skip58
 \dth@everypar=\toks27
-) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+LaTeX Info: Redefining \markboth on input line 3.
+ (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks28
 \inpenc@posthook=\toks29
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/10/22 v25.14 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+Package: babel 2025/11/09 v25.15 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count295
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2050.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2052.
@@ -134,11 +136,9 @@ LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) o
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count296
-
-
-Package babel Warning: Configuration files are deprecated, as
-(babel)                they can break document portability.
-(babel)                Reported on input line 4172.
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4175.
 
 *************************************
 * Local config file bblopts.cfg used
@@ -146,14 +146,12 @@ Package babel Warning: Configuration files are deprecated, as
 (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/sl\babel-slovene.tex
-
-Package babel Warning: Name 'slovene' is discouraged.
-(babel)                Prefer 'slovenian' instead.
-(babel)                Reported on input line 16.
-
+Package babel Info: Name 'slovene' is discouraged.
+(babel)             Prefer 'slovenian' instead.
+(babel)             Reported on input line 16.
 )
 Package babel Info: Importing font and identification data for slovene
-(babel)             from babel-sl.ini. Reported on input line 4295.
+(babel)             from babel-sl.ini. Reported on input line 4298.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/babel-slovenian\slovenian.ldf
 Language: slovenian 2025/05/10 v1.2p Slovenian support from the babel system
 Package babel Info: Making " an active character on input line 80.
@@ -459,8 +457,6 @@ LaTeX Font Info:    Font shape `T1/ccr/bx/n' in size <7> not available
 
 Class amsart Warning: Abstract should precede \maketitle in AMS document classes; reported on input line 60.
 
-
-
 [1{C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 Overfull \hbox (8.8658pt too wide) in paragraph at lines 154--156
 []\T1/ccr/m/up/10 Ne po£-nimo ne-u-mno-sti z ma-ko-roji: £e se-²te-jemo za-po-redji $\U/eur/m/n/10 a[]; [] ; a[]$ \T1/ccr/m/up/10 in $\U/eur/m/n/10 b[]; [] ; b[]$\T1/ccr/m/up/10 ,
@@ -476,8 +472,8 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
 (Font)              using `T1/ccr/bx/n' instead on input line 215.
 
-
-
+Package babel Info: 'slovene' activates 'slovene' shorthands.
+(babel)             Reported on input line 231.
 [2]
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
@@ -486,8 +482,6 @@ LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
 (Font)              using `T1/ccr/bx/n' instead on input line 271.
-
-
 
 [3]
 
@@ -502,8 +496,6 @@ LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
 (Font)              using `T1/ccr/bx/n' instead on input line 383.
 
-
-
 [4]
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
@@ -513,12 +505,10 @@ LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
 (Font)              using `T1/ccr/bx/n' instead on input line 406.
 
-<xymatrix 2x2 250>
-
-[5] (2-matematika.aux)
+<xymatrix 2x2 250> [5] (2-matematika.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-10-09>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-06>
  ***********
 
 
@@ -526,10 +516,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6524 strings out of 468079
- 90669 string characters out of 5425750
- 548141 words of memory out of 5000000
- 34939 multiletter control sequences out of 15000+600000
+ 6527 strings out of 467870
+ 90703 string characters out of 5418354
+ 551474 words of memory out of 5000000
+ 35151 multiletter control sequences out of 15000+600000
  647462 words of font info for 99 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  71i,13n,79p,1499b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s

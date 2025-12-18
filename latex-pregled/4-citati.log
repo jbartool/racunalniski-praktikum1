@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  23 NOV 2025 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.18)  18 DEC 2025 21:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **c:/Users/Janez/Documents/RP/racunalniski-praktikum1/latex-pregled/4-citati.tex
 (c:/Users/Janez/Documents/RP/racunalniski-praktikum1/latex-pregled/4-citati.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-10-09>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-06>
 (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -24,13 +24,13 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/10/22 v25.14 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+Package: babel 2025/11/09 v25.15 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count283
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2050.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2052.
@@ -44,11 +44,9 @@ LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) o
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count284
-
-
-Package babel Warning: Configuration files are deprecated, as
-(babel)                they can break document portability.
-(babel)                Reported on input line 4172.
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4175.
 
 *************************************
 * Local config file bblopts.cfg used
@@ -56,14 +54,12 @@ Package babel Warning: Configuration files are deprecated, as
 (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
 ) (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/sl\babel-slovene.tex
-
-Package babel Warning: Name 'slovene' is discouraged.
-(babel)                Prefer 'slovenian' instead.
-(babel)                Reported on input line 16.
-
+Package babel Info: Name 'slovene' is discouraged.
+(babel)             Prefer 'slovenian' instead.
+(babel)             Reported on input line 16.
 )
 Package babel Info: Importing font and identification data for slovene
-(babel)             from babel-sl.ini. Reported on input line 4295.
+(babel)             from babel-sl.ini. Reported on input line 4298.
  (C:\Users\Janez\AppData\Local\Programs\MiKTeX\tex/latex/babel-slovenian\slovenian.ldf
 Language: slovenian 2025/05/10 v1.2p Slovenian support from the babel system
 Package babel Info: Making " an active character on input line 80.
@@ -225,37 +221,29 @@ Overfull \hbox (32.64853pt too wide) in paragraph at lines 48--53
 \T1/cmr/m/n/10 Bibliografijo damo v da-to-teko s kon£-nico [][]\T1/cmtt/m/n/10 .bib[]\T1/cmr/m/n/10 . Upo-ra-bimo jo z uka-zom [][]\T1/cmtt/m/n/10 \bibliography[]\T1/cmr/m/n/10 ,
  []
 
-(4-citati.bbl
+(4-citati.bbl [1
 
-[1
-
-{C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (4-citati.ind
-
-[2]
-
-
-
-[3
+{C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (4-citati.ind [2] [3
 
 
 ]) (4-citati.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-10-09>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `4-citati.out' has not changed.
 (rerunfilecheck)             Checksum: 9BB679FF2F4CB79C22275346D4BFD0B6;389.
  ) 
 Here is how much of TeX's memory you used:
- 8962 strings out of 468079
- 143012 string characters out of 5425750
- 563436 words of memory out of 5000000
- 37543 multiletter control sequences out of 15000+600000
+ 8960 strings out of 467870
+ 143000 string characters out of 5418354
+ 567267 words of memory out of 5000000
+ 37750 multiletter control sequences out of 15000+600000
  637603 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,300b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,300b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on 4-citati.pdf (3 pages, 87918 bytes).
+Output written on 4-citati.pdf (3 pages, 87852 bytes).
 PDF statistics:
  311 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 500000)

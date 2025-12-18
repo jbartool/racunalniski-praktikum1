@@ -1,24 +1,24 @@
 # Fdb version 4
-["bibtex 4-citati"] 1763914880.40688 "4-citati.aux" "4-citati.bbl" "4-citati" 1763914883.40799 0
+["bibtex 4-citati"] 1763914880.40688 "4-citati.aux" "4-citati.bbl" "4-citati" 1766089851.80555 0
   "./literatura.bib" 1730373471 5537 40a169ec469414de5db6fb05014ecd46 ""
-  "4-citati.aux" 1763914882.02473 886 dc9d777f79e39d1ac8fb47bfe5a68193 "pdflatex"
+  "4-citati.aux" 1766089849.84148 886 dc9d777f79e39d1ac8fb47bfe5a68193 "pdflatex"
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   (generated)
   "4-citati.bbl"
   "4-citati.blg"
   (rewritten before read)
-["makeindex 4-citati.idx"] 1763914876.21984 "4-citati.idx" "4-citati.ind" "4-citati" 1763914883.40672 0
-  "4-citati.idx" 1763914882.03373 164 b10b31c3fc2f11ba75a60a85ae06fa78 "pdflatex"
+["makeindex 4-citati.idx"] 1763914876.21984 "4-citati.idx" "4-citati.ind" "4-citati" 1766089851.80426 0
+  "4-citati.idx" 1766089849.87945 164 b10b31c3fc2f11ba75a60a85ae06fa78 "pdflatex"
   (generated)
   "4-citati.ilg"
   "4-citati.ind"
   (rewritten before read)
-["pdflatex"] 1763914880.92249 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/latex-pregled/4-citati.tex" "4-citati.pdf" "4-citati" 1763914883.40952 0
-  "4-citati.aux" 1763914882.02473 886 dc9d777f79e39d1ac8fb47bfe5a68193 "pdflatex"
+["pdflatex"] 1766089848.68525 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/latex-pregled/4-citati.tex" "4-citati.pdf" "4-citati" 1766089851.8072 0
+  "4-citati.aux" 1766089849.84148 886 dc9d777f79e39d1ac8fb47bfe5a68193 "pdflatex"
   "4-citati.bbl" 1763914880.81847 1009 8c42ad2089d5833a39de9893cff05729 "bibtex 4-citati"
   "4-citati.ind" 1763914876.67101 196 35941e6c236f7a810c256a8d32fc9840 "makeindex 4-citati.idx"
-  "4-citati.out" 1763914882.02873 389 9bb679ff2f4cb79c22275346d4bfd0b6 "pdflatex"
-  "C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1763914799.11579 81760 910369822cd2d7c359b2482f4c0de4ca ""
+  "4-citati.out" 1766089849.86146 389 9bb679ff2f4cb79c22275346d4bfd0b6 "pdflatex"
+  "C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766089833.38465 83537 02a664bae19768fff9f97d0ded668270 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1762881624.94098 22504 a83432ffb278686047e2721859d55c60 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1762881619.50837 40136 870f9915a69bfa90c227e3e324c195f4 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk" 1763914874.25437 17000 ae8e7353f0b6eb99cb88c543dbaf18c2 ""
@@ -28,7 +28,7 @@
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk" 1762884279.50193 42516 50650cf7d53199ad15a82ef7ace75062 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk" 1762884269.86062 31892 1ea524b90b9d239e42654e1e42cfa7a9 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1762884274.72657 20028 67272f6cd63aa49ce18bcb3bdc253fef ""
-  "C:/Users/Janez/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762797291.10522 13321909 00692622ea5595b52b767e02dcea5388 ""
+  "C:/Users/Janez/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1766089810.96414 13333553 468242a2b57eb5a4419f4af7e2788964 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx0900.tfm" 993061954 3200 f959f56c26f697d341ba38dba18fe1f8 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm0700.tfm" 993062116 3168 c739b83da3134ef1007979877c1089cf ""
@@ -48,10 +48,10 @@
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1761147669 145885 784cdd1ebbc3dbacabd5ee30707617a3 ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/sl/babel-sl.ini" 1761147675 4051 05caf11974323aa9515da50718a718aa ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/sl/babel-slovene.tex" 1761147675 511 d8762999e506030e7d32e8451d90ced0 ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/babel/txtbabel.def" 1761147669 5231 82bb24bf20af7e4d760717f2cadb5170 ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1762681668 146027 ef4163b2f3d9457f0205f6d7ce8e5cd4 ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/sl/babel-sl.ini" 1762681671 4051 05caf11974323aa9515da50718a718aa ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/sl/babel-slovene.tex" 1762681671 508 9a2bc27ca513ec2309c60038038d0813 ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/babel/txtbabel.def" 1762681668 5231 82bb24bf20af7e4d760717f2cadb5170 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettitlestring.sty" 1576433666 8371 9d55b8bd010bc717624922fb3477d92e ""
@@ -66,11 +66,11 @@
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquecounter.sty" 1576434012 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 74ca68fb2e6c2b8d370ff0e672de0f31 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/babel-slovenian/slovenian.ldf" 1748080874 3795 6a11b7ba6aa24ec0e0220b60f5ed04ca ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1749467999 20144 b966087dda3b194755eb460d32e2ef75 ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty" 1749467999 5275 2f50a1b91fdc3c2c6ff41843a6854061 ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1749467999 5048 0270515b828149155424600fd2d58ac5 ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/makeidx.sty" 1749467999 1939 6a53b9b28a14b26311df6cf40fff84ab ""
-  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1749467999 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1761900684 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty" 1761900684 5275 6f9d359641b36842524cdb97716ab75f ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1761900684 5048 0270515b828149155424600fd2d58ac5 ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/makeidx.sty" 1761900684 1939 6a53b9b28a14b26311df6cf40fff84ab ""
+  "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1759409308 46885 8953c67ffba03252c6090aa19568b8ba ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1749322634 2671 d9941f4bf4750e9b0603c9a2ec54693b ""
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty" 1580380792 18571 5a6205e2f490b14bdc73fa03b48f19d6 ""
