@@ -41,13 +41,11 @@
 	\centering
 		\begin{tikzpicture}
 			\tikzmath{
-			% Razdalja od točke T do premice p je tako 2*sin(45°).
-			\t = 2*sin(45);
-			% Razdalja začetka loka m do premice p
-			% oz. razdalja točke T' levo in zgoraj od točke T do premice
-			\tt = 2*sin(60);
-			% Razdalja točke T' od navpične premice skozi T
-			\td = \t-2*cos(60);
+				\r = 2; % polmer od lokov
+				\beta = 30; % Razdalja začetka loka m do premice p oz. razdalja točke T' levo in zgoraj od točke T do premice
+				\t = \r * sin(45);% Razdalja od točke T do premice p je tako 2*sin(45°)
+				\tt = \r * sin(\beta); % Razdalja točke T' od navpične premice skozi T
+				\td = \r * cos(\beta);
 			}
 			% Definicija točke T
 			\coordinate [label={[blue, above left]:$T$}] (T) at (0,{\t});
@@ -57,7 +55,7 @@
 			\draw[blue, very thick] (-2,0) -- (2,0) node[right] {$p$};
 			\only<+->{%
 			% Definicija pomožne točke A' in risanje krožnega loka k, ki se začne v A'
-			\coordinate (A') at ({-\tt},{\td});
+			\coordinate (A') at ({-\td},{\tt});
 			\draw[gray, thin] (A') arc[start angle=210, end angle=330, radius=2] node[right] {\scriptsize $k$};
 			}
 			% Točka A
@@ -72,17 +70,17 @@
 			}
 			\only<+->{%
 			% Definicija točke T', v kateri se začne lok m in risanje loka m z oznako.
-			\coordinate (T') at ({\t},{\t});
-			\draw[gray, thin] (T') arc[start angle=150, end angle=330, radius=2] node[left] {\scriptsize $m$};
+			\coordinate (T') at ({-\td},{\tt});
+			\draw[gray, thin] (T') arc[start angle=150, end angle=330, radius=\r] node[left] {\scriptsize $m$};
 			}
 			\only<+->{%
 			% Definicija točke T'' in risanje loka n z oznako.
-			\coordinate (T'') at ({\tt},{\td});
-			\draw[gray, thin] (T'') arc[start angle=210, end angle=30, radius=2] node[right] {\scriptsize $n$};
+			\coordinate (T'') at ({\td},{\tt});
+			\draw[gray, thin] (T'') arc[start angle=30, end angle=210, radius=\r] node[right] {\scriptsize $n$};
 			}
 			\only<+->{%
 			% Definicija in risanje točke C
-			\coordinate [label={[blue, above right]:$C$}] (C) at (0,{\t+2*sqrt(3)});
+			\coordinate [label={[blue, above right]:$C$}] (C) at (0,{\t+2*\r*cos(30)});
 			\fill[blue] (C) circle (2pt);
 			}
 			\only<+->{%
