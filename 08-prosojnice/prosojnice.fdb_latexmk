@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1766072029.75065 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex" "prosojnice.pdf" "prosojnice" 1766072034.55679 0
+["pdflatex"] 1766077650.46823 "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex" "prosojnice.pdf" "prosojnice" 1766077657.35941 0
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764952479.21656 83537 02a664bae19768fff9f97d0ded668270 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecsi1095.pk" 1764952772.85551 26868 1e7c7c31293023ccf268e68d14312306 ""
   "C:/Users/Janez/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecsi1200.pk" 1764952492.98727 29580 e9addbae19362d84c5772d36bfe9fb39 ""
@@ -262,15 +262,21 @@
   "C:/Users/Janez/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "c:/Users/Janez/Documents/RP/racunalniski-praktikum1/08-prosojnice/prosojnice.tex" 1766072028.62691 2357 16dc9d1e36ae1c75151e7a7b2b5b47c0 ""
   "predavanja.sty" 1764951488.2107 1271 9546361f9f30288301f1cddd1feb0f5b ""
-  "prosojnice.aux" 1766072033.71693 5153 913469f4109faf5d6cd3d3196cd0faba "pdflatex"
-  "prosojnice.nav" 1766072033.73345 3235 6ae10378a230f495eac4be0f9c3a7720 "pdflatex"
-  "prosojnice.out" 1766072033.71693 857 a81989b9e0447179f9f657bd4d407b98 "pdflatex"
-  "prosojnice.toc" 1766072033.73345 403 b6e3857d2fb63e7af9ee1765b60a38a4 "pdflatex"
+  "prosojnice.aux" 1766077656.52437 5153 215d6af51c67896ae330664fd74e07a5 "pdflatex"
+  "prosojnice.nav" 1766077656.53436 3235 44591b5d171c287aa728f0a59d8a7feb "pdflatex"
+  "prosojnice.out" 1766077656.52936 857 a81989b9e0447179f9f657bd4d407b98 "pdflatex"
+  "prosojnice.toc" 1766077656.53436 403 b75bb17641126a935b7c724dee1191ef "pdflatex"
   "prosojnice/1-paket-beamer.tex" 1764954509.16155 1965 e938a30cf4add98591697a4478d3bd1b ""
   "prosojnice/2-paketa-amsmath-amsfonts.tex" 1765009518.64124 2567 26f2706b9bb7d9e553cbe7efd32bdb97 ""
   "prosojnice/3-analiza-logika-mnozice.tex" 1764951488.09628 1533 ffe61bbbcb0a0f121dae9382ec6d22f7 ""
-  "prosojnice/4-stolpci-slike.tex" 1766072028.62691 3050 0f9238ade0c910d148a4c96b5e02707e ""
+  "prosojnice/4-stolpci-slike.tex" 1766077642.4095 3101 cf331336791d9ed1d57b0bfcae0b50ce ""
   "slike/fig-1.png" 1766069304.97185 2183 fbaa4c32a94ef8ad82d72a3720bf0555 ""
+  "slike/fig-2.png" 1766069305.04997 5678 ee388c0f82d13ccd74277e3bbe5253a9 ""
+  "slike/fig-3.png" 1766069305.01872 6833 f4e0e4eaf98a45acfdb4fd38c73706b9 ""
+  "slike/fig-4.png" 1766069305.20622 10298 68a8813f6b4fd8c605f5e983f711daa1 ""
+  "slike/fig-5.png" 1766069305.17497 12788 9216a21de5f0ff8109aeb62d051f6da1 ""
+  "slike/fig-6.png" 1766069305.09685 13207 f59b55ff9b37705f942d8e40c4500eef ""
+  "slike/fig-7.png" 1766069305.1281 13650 499aec9e844328c7f04bd686428ba3f5 ""
   (generated)
   "prosojnice.aux"
   "prosojnice.log"
