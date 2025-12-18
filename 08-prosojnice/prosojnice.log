@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  18 DEC 2025 18:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  18 DEC 2025 19:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1200,97 +1200,47 @@ Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
 [32
 
  <./slike/fig-7.png>]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [33
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [34
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [35
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [36
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [37
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [38
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [39
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [40
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [41
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
 
 [42
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
+Overfull \hbox (96.32095pt too wide) in paragraph at lines 95--95
  [][] 
  []
 
@@ -1299,7 +1249,7 @@ Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
 [43
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
+Overfull \hbox (185.29942pt too wide) in paragraph at lines 95--95
  [][] 
  []
 
@@ -1308,7 +1258,7 @@ Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
 [44
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
+Overfull \hbox (185.29942pt too wide) in paragraph at lines 95--95
  [][] 
  []
 
@@ -1317,7 +1267,7 @@ Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
 [45
 
 ]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
+Overfull \hbox (185.29942pt too wide) in paragraph at lines 95--95
  [][] 
  []
 
@@ -1325,22 +1275,13 @@ Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
 
 [46
 
-]
-Overfull \hbox (185.29942pt too wide) in paragraph at lines 88--88
- [][] 
- []
-
-
+])
 
 [47
 
-])
-
-[48
-
 ]
 
-[49
+[48
 
 ]
 \tf@nav=\write6
@@ -1361,17 +1302,17 @@ Package rerunfilecheck Info: File `prosojnice.out' has not changed.
 (rerunfilecheck)             Checksum: A81989B9E0447179F9F657BD4D407B98;857.
  ) 
 Here is how much of TeX's memory you used:
- 28543 strings out of 468079
- 575448 string characters out of 5425750
+ 28541 strings out of 468079
+ 575429 string characters out of 5425750
  950639 words of memory out of 5000000
  56514 multiletter control sequences out of 15000+600000
  648911 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,137p,1961b,1028s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,137p,1961b,1008s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\Janez\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Janez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on prosojnice.pdf (49 pages, 319338 bytes).
+Output written on prosojnice.pdf (48 pages, 309670 bytes).
 PDF statistics:
- 711 PDF objects out of 1000 (max. 8388607)
- 105 named destinations out of 1000 (max. 500000)
+ 705 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
  126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
